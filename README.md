@@ -1,6 +1,6 @@
 # JavaFX-Gradle-Template
 
-A simple Java + JavaFX + Gradle Template to get you going with minimal effort. Instructions below.
+A simple Java + JavaFX + Gradle Template to get you going with minimum effort. Instructions below.
 
 
 ## Requirements
@@ -12,7 +12,7 @@ A simple Java + JavaFX + Gradle Template to get you going with minimal effort. I
 
 ## Usage Guide
 
-1. Make sure you have the required JDK and Gradle installed and set up.
+1. Make sure you have the required OpenJDK and Gradle correctly installed.
 
 2. Clone/Download this repository to your local drive.
 
@@ -20,23 +20,22 @@ A simple Java + JavaFX + Gradle Template to get you going with minimal effort. I
 
 4. Execute "gradle eclipse" to generate eclipse .project files.
 
-5. Execute "gradle run" to directly start the demo application.
+5. Execute "gradle run" to directly start the demo application with gradle.
 
-6. Execute "gradle jpackage" to build a standalone binary inside "build/jpackage/BinaryName".
+6. Execute "gradle jpackage" to build a standalone program inside "build/jpackage/".
 
-7. Customize the generic package, module and binary names to your liking. You need to edit "gradle.build", the src folders, App.java and "module-info.java"
-
+Highly recommended: customize the generic package, module and binary names to your liking. You need to edit "gradle.build", the src folders, App.java and "module-info.java". Editing the package and module names is easier inside an IDE. The only thing that needs to be edited outside of the IDE is the gradle.build file.
 
 
 ## Generating Eclipse Project Files with Gradle
 
-Execute this in the project-directory to generate elipse .project files if necessary:
+Execute this in the project-directory to generate Elipse .project files if necessary:
 ```Shell
 gradle eclipse
 ```
-Then simply import the Project into your Eclipse-Workspace as an eclipse project.
+Then simply import the project into your workspace as an existing project.
 
-You can also edit the files using any other editor of your choice and build using gradle.
+You can also edit the files using any other editor/IDE of your choice and build using Gradle.
 
 
 ## Running from Source with Gradle
