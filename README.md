@@ -1,4 +1,4 @@
-# JavaFX-Gradle-Template
+# JavaFX-JPackage-Gradle-Template
 
 A simple Java + JavaFX + Gradle Template to get you going with minimum effort. Instructions below.
 
