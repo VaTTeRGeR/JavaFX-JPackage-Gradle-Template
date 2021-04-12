@@ -1,0 +1,10 @@
+# Java
+*.class
+
+# Eclipse
+/bin
+/.settings
+
+# Gradle
+/build
+/.gradle

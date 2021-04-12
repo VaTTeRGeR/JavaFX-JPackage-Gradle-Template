@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15/"/>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/15.0.1/7d424e313435f4db2a2063cbffd48ca5912526b2/javafx-fxml-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/15.0.1/5c36ae238f6d0d5782febed0af9a26defa7c0182/javafx-fxml-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-web/15.0.1/beeb15ef93afa4701ca866056bbce5e87e206d25/javafx-web-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-web/15.0.1/7a5542ec3867780d6f1a927a79c04a2d6116a385/javafx-web-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/bc13403cf76feeed6f6080483e0afa115038847c/javafx-controls-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/4df40eb93a7afd9ed3d7ccfee2701e9cb2215155/javafx-controls-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/bc13403cf76feeed6f6080483e0afa115038847c/javafx-controls-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/7e951231ff36d704e8cc8b112b71951c9ccbc15d/javafx-controls-15.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/15.0.1/62a6e18191ec3552546628cc14a8482da6aa96e0/javafx-media-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/15.0.1/6c5a6c684173baba1253798c8846234dbd3b0c6f/javafx-media-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/15.0.1/62a6e18191ec3552546628cc14a8482da6aa96e0/javafx-media-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/15.0.1/46fe40bb9a9bc0a50b94c66c48db6027c9e8d348/javafx-media-15.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/75b21dc9c7d2309036e9a3ffa1dbedf501a3f260/javafx-graphics-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/604e26ca8730f8d996b5c203532f85f4b62894fb/javafx-graphics-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/75b21dc9c7d2309036e9a3ffa1dbedf501a3f260/javafx-graphics-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/55565f47d9d4e295f8bdeb8a6577e29b8bc29267/javafx-graphics-15.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/63104fedbcf9cd52b1059587aed77d421bb66183/javafx-base-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/49cf29d155e98c749fdeb517a97f79c6a9e8cb6a/javafx-base-15.0.1-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/63104fedbcf9cd52b1059587aed77d421bb66183/javafx-base-15.0.1-sources.jar" kind="lib" path="C:/Users/flosc/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/88d5d4ad546e17904516fd05be69243e54144af4/javafx-base-15.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
